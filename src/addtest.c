@@ -9,7 +9,7 @@
 
 int main(int argc, char** argv)
 {
-  /* foo + bar = Add(foo, bar) */
+  /* Add foo and bar variables exported from the DLL */
   printf("%d + %d = %d\n", foo, bar, Add(foo, bar));
 
   return EXIT_SUCCESS;
