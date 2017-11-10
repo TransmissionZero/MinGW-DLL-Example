@@ -1,5 +1,4 @@
 # Ignore compiled binaries
+/bin/
+/lib/
 /obj/
-*.exe
-*.dll
-*.a

@@ -22,7 +22,7 @@ BEGIN
       VALUE "FileDescription", "A library to perform addition."
       VALUE "FileVersion", "1.0.0.0"
       VALUE "InternalName", "AddLib"
-      VALUE "LegalCopyright", "©2013 Transmission Zero"
+      VALUE "LegalCopyright", "©2017 Transmission Zero"
       VALUE "OriginalFilename", "AddLib.dll"
       VALUE "ProductName", "Addition Library"
       VALUE "ProductVersion", "1.0.0.0"
